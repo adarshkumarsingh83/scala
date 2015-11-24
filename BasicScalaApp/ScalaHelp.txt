@@ -1,0 +1,9 @@
+
+Compilation Process
+--------------------------
+D:\Bitbucket\scala\BasicScalaApp>scalac HelloScala.scala
+
+Execution Process
+--------------------------
+D:\Bitbucket\scala\BasicScalaApp>scala -classpath . HelloScala
+Hello, world!
