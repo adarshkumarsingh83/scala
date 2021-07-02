@@ -1,1 +1,0 @@
-printf("Hello Scala From Adarsh Kumar");
